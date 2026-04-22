@@ -192,7 +192,7 @@ StaticRouting-SDN/
 
 ## Author
 
-**Student Name:** Manav Dewangan
+**Student Name:** Talha Nawaz
 **Date:** April 2026
 **Course:** SDN
 **Institution:** PES University
